@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 35px;
+    font-family: 'orbitron',sans-serif;
+
+}
+.cal {
+    width: 324px;
+    margin: auto;
+    background-color : blueviolet;
+    padding-left: 20px;
+    border-radius: 8px;
+}
+.calc-display {
+    width: 32%;
+    height: 75px;
+    border:none;
+    background-color: blanchedalmond;
+    margin-bottom: 10px;
+    border-radius: 8px;
+
+}
+input[type= button] {   
+                 width: 75px;
+                 height:75px;
+                 margin:2px;
+                 color:rosybrown;
+                 border: none;
+                 border-radius: 8px;
+                 background-color: brown;
+}
